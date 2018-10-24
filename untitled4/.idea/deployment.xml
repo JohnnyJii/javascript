@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="shell" filePermissions="493" folderPermissions="493">
+    <serverData>
+      <paths name="shell">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/web/perusteet" local="$USER_HOME$/Downloads/Jakso_2/Javascript/lab" web="/web/perusteet" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
