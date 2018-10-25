@@ -2,9 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>lab 1-7</title>
 </head>
 <body>
+<script language="JavaScript">
 
+const saldo = prompt('Tilin saldo: ');
+const vKorko = prompt('Vuotuinen korko: ');
+
+const kertyvakorko = saldo * (vKorko / 100);
+const uusiSaldo = +saldo + +kertyvakorko;
+
+
+document.write('Saldo vuoden alussa: ' + saldo + '€ ' + ' vuotuinen korko: ' + vKorko + '% ' + ' Saldo vuoden lopussa: ' +
+                uusiSaldo + '€ ' + 'josta korkoa: ' + kertyvakorko + '€');
+
+</script>
 </body>
 </html>
