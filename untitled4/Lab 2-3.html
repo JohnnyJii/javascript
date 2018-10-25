@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab 2-3</title>
+</head>
+<body>
+
+<script language="JavaScript">
+
+    const sukupuoli = prompt('Oletko mies vai nainen?');
+
+    switch (sukupuoli) {
+      case 'mies':
+        let hemoMies = prompt('Anna hemoglobiinin arvo grammoina litroissa:' );
+            if (hemoMies < 134) {
+              document.write('Hemoarvosi on liian alhainen');
+            }
+            else if (hemoMies > 195) {
+              document.write('Hemoarvosi on liian korkea');
+            }
+            else {
+              document.write('Hemoarvosi on hyvä');
+            }
+        break;
+
+      case 'nainen':
+        let hemoNainen = prompt('Anna hemoglobiinin arvo grammoina litroissa:' );
+            if (hemoNainen < 117) {
+              document.write('Hemoarvosi on liian alhainen');
+            }
+            else if (hemoNainen > 175) {
+              document.write('Hemoarvosi on liian korkea');
+            }
+            else {
+              document.write('Hemoarvosi on hyvä');
+            }
+        break;
+
+      default:
+        document.write('Virheellinen sukupuoli. hox. pienet kirjaimet')
+    }
+
+
+
+
+
+</script>
+</body>
+</html>
