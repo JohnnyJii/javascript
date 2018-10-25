@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab 2-5</title>
+</head>
+<body>
+<script language="JavaScript">
+
+    const juuri = window.confirm('Lasketaanko neliöjuuri?');
+
+    switch (juuri) {
+      case true:
+        let nelio = prompt('Anna luku: ');
+        if (nelio > 0) {
+          document.write('Neliöjuuri luvusta ' + nelio + ' on '+ Math.sqrt(nelio));
+        } else {
+          document.write('Annetun luvun täytyy olla positiivinen, lukua ei lasketa negatiivisesta luvusta');
+        }
+        break;
+
+      case false:
+        document.write('Neliöjuurta ei lasketa.');
+
+        break;
+    }
+
+
+
+</script>
+</body>
+</html>
