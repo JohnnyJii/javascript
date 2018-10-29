@@ -8,7 +8,13 @@
 <body>
 <script language="JavaScript">
 
+    const luku = prompt('Anna luku:');
 
+    while (luku < 0) {
+      prompt('Anna postiivinen luku:');
+    }
+
+    document.write('Neliöjuuri luvusta ' + luku + ' on ' + Math.sqrt(luku));
 </script>
 </body>
 </html>
