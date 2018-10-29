@@ -2,12 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lab 3-1
-    </title>
+    <title>Lab 3-4</title>
 </head>
 <body>
 <script language="JavaScript">
 
+  let nopat = prompt('Anna noppien määrä: ');
+
+  let tulo = 0;
+
+  for (let i = 0; i < nopat; i++) {
+    tulo += Math.floor(Math.random() * 6 + 1);
+  }
+
+  document.write('Heitit ' + nopat + ' noppaa ja niiden summa on: ' + tulo);
 
 </script>
 </body>
