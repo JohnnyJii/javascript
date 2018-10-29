@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lab 4-1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab 4-1.html">
+      <file leaf-file-name="Lab 4-2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab 4-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab 4-2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 4-2.html">
+      <file leaf-file-name="Lab 4-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -64,13 +64,13 @@
         <option value="$PROJECT_DIR$/Lab 3-5.html" />
         <option value="$PROJECT_DIR$/Lab 3-6.html" />
         <option value="$PROJECT_DIR$/Lab4-5.html" />
-        <option value="$PROJECT_DIR$/Lab 4-2.html" />
         <option value="$PROJECT_DIR$/Lab 4-3.html" />
         <option value="$PROJECT_DIR$/Lab 4-7.html" />
         <option value="$PROJECT_DIR$/Lab 4-6.html" />
         <option value="$PROJECT_DIR$/Lab 4-5.html" />
         <option value="$PROJECT_DIR$/Lab 4-4.html" />
         <option value="$PROJECT_DIR$/Lab 4-1.html" />
+        <option value="$PROJECT_DIR$/Lab 4-2.html" />
       </list>
     </option>
   </component>
@@ -173,12 +173,12 @@
       <workItem from="1540360770021" duration="6309000" />
       <workItem from="1540447368760" duration="4482000" />
       <workItem from="1540452722220" duration="12301000" />
-      <workItem from="1540796009676" duration="12434000" />
+      <workItem from="1540796009676" duration="13215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38413000" />
+    <option name="totallyTimeSpent" value="39194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1174" y="23" width="1385" height="1322" extended-state="0" />
@@ -499,18 +499,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4-2.html">
+    <entry file="file://$PROJECT_DIR$/Lab 4-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4-1.html">
+    <entry file="file://$PROJECT_DIR$/Lab 4-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding />
         </state>
       </provider>
