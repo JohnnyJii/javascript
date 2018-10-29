@@ -7,13 +7,18 @@
 <body>
 <script language="JavaScript">
 
-const year = prompt('Anna vuosi: ');
+  const year = prompt('Anna vuosi: ');
 
-    if (year % 4 == 0 && year > 0) {
-        document.write('Kyseessä on karkausvuosi!');
-} else {
-      document.write('Kyseessä ei ole karkausvuosi');
-}
+  if (year % 100 == 0 && year % 400 == 0) {
+    document.write('Kyseessä on karkausvuosi!');
+  } else if
+  (year % 4 == 0) {
+    document.write('Kyseessä on karkausvuosi!');
+
+  } else {
+
+    document.write('Kyseessä ei ole karkausvuosi');
+  }
 
 
 </script>

@@ -7,6 +7,23 @@
 <body>
 <script language="JavaScript">
 
+const leiviska = prompt('Anna leiviskän määrä: ');
+const naula = prompt('Anna naulojen määrä: ');
+const luoti = prompt('Anna luotien määrä: ');
+
+const leiviskakg = 8512 * leiviska;
+const naulagr =  425.6 * naula;
+const luotigr = 13.3 * luoti;
+
+const summa = Math.floor((luotigr + naulagr + leiviskakg) / 1000);
+const gramma = ((luotigr + naulagr + leiviskakg) / 1000);
+const gramma2 = ((gramma - summa) * 1000);
+
+function roundup(gramma2) {
+  return Number.parseFloat(gramma2).toFixed(2);
+}
+
+document.write('Massa nykymittojen mukaan: ' + summa + 'kiloa ja ' + roundup(gramma2) + 'grammaa');
 
 </script>
 </body>
