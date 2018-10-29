@@ -11,21 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lab 2-5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 2-5.html">
+      <file leaf-file-name="Lab 3-3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab 3-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="83" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="83" />
+            <state relative-caret-position="375">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab 3-2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab 3-2.html">
+      <file leaf-file-name="Lab 2-6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 2-6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -58,11 +58,11 @@
         <option value="$PROJECT_DIR$/Lab 2-6.html" />
         <option value="$PROJECT_DIR$/LAb 3-4.html" />
         <option value="$PROJECT_DIR$/Lab 3-5.html" />
-        <option value="$PROJECT_DIR$/Lab 3-3.html" />
         <option value="$PROJECT_DIR$/Lab 3-6.html" />
         <option value="$PROJECT_DIR$/Lab 3-7.html" />
         <option value="$PROJECT_DIR$/Lab 3-1.html" />
         <option value="$PROJECT_DIR$/Lab 3-2.html" />
+        <option value="$PROJECT_DIR$/Lab 3-3.html" />
       </list>
     </option>
   </component>
@@ -165,12 +165,12 @@
       <workItem from="1540360770021" duration="6309000" />
       <workItem from="1540447368760" duration="4482000" />
       <workItem from="1540452722220" duration="12301000" />
-      <workItem from="1540796009676" duration="3818000" />
+      <workItem from="1540796009676" duration="6456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29797000" />
+    <option name="totallyTimeSpent" value="32435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1174" y="23" width="1385" height="1322" extended-state="0" />
@@ -360,14 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 2-6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LAb 3-4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -380,14 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -444,6 +428,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 2-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>

@@ -8,6 +8,18 @@
 <body>
 <script language="JavaScript">
 
+  let year1 = prompt('Anna alkamisvuosi: ');
+  let year2 = prompt('Anna lopettamisvuosi: ');
+
+
+  for (i = year1; i < year2; i++) {
+    if (i % 100 == 0 && i % 400 == 0 || (i % 4 == 0)) {
+
+      document.write("<li>" + i + ' on karkausvuosi' + "</li>");
+
+    }
+
+  }
 
 </script>
 </body>
