@@ -8,6 +8,16 @@
 <body>
 <script language="JavaScript">
 
+let nums = []
+    luku = prompt('Anna luku:');
+
+while ( luku > 0) {
+  nums.push(luku)
+  luku --;
+}
+
+document.write(nums.reduce((a , b) => a * b));
+
 
 </script>
 </body>
