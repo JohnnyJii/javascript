@@ -2,11 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lab 3-1
-    </title>
+    <title>Lab 3-5</title>
 </head>
 <body>
 <script language="JavaScript">
+
+let num = prompt('Anna luku: ');
+
+function isPrime(num) {
+
+  if (num === 2) {
+    return true;
+  }
+  else if(num > 1){
+    for (var i = 2;  i < num; i++) {
+
+      if (num % i !== 0 ) {
+        return true;
+      }
+
+      else if (num === i * i) {
+        return false
+      }
+
+      else {
+        return false;
+      }
+    }
+  }
+  else {
+    return false;
+  }
+
+}
+
+document.write(isPrime(num));
 
 
 </script>
