@@ -6,19 +6,27 @@
 </head>
 <body>
 <script language="JavaScript">
+    'use strict'
 
-let maara = [];
-let nimet = [];
+let maara = prompt('Anna osallistujien määrä:');
+let lista = [];
 
-maara = prompt('Anna osallistujien määrä:');
-nimet = prompt('Anna nimet;')
-let i;
+for (maara; maara>0; maara-- ) {
+  let nimet = prompt('Anna nimi;')
+  lista.push(nimet);
+}
 
-    for( i=1; i<= osa; i++) {
-      osa.push(nimet);
+function teeLista(array) {
+  let list = document.createElement('ol');
 
-      document.write("<ol>" + "<li>" + luvut + "<li>" + "</ol>");
-    }
+      for (let i=0; i < array.length; i++) {
+        let item = document.createElement('li');
+        item.appendChild(document.createTextNode(array[i]));
+        list.appendChild(item);
+  }
+  return list;
+}
+document.getElementById('orderedList').appendChild(makeList(lista));
 
 </script>
 </body>
