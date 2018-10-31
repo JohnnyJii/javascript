@@ -6,15 +6,16 @@
 </head>
 <body>
 <script language="JavaScript">
+'use strict'
+
 
     let nopat, summa1, summa2, todnak;
     nopat = prompt('Anna noppien määrä:');
     summa1 = prompt('Noppien summa: ');
-
     summa2 = 0;
     todnak = 0;
 
-    for ( i=1; i<=10000; i++){
+    for (i=1; i<=10000; i++){
       for (j=1; j=nopat; j++){
         summa2 = summa2 + Math.floor(Math.random() * 6) + 1;
       }
@@ -24,6 +25,7 @@
       summa2 = 0;
     }
         document.write('Todennäköisyys haluamasi summalle on: ' + todnak/100 + '%');
+
 </script>
 </body>
 </html>

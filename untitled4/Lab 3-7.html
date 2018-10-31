@@ -7,7 +7,17 @@
 <body>
 <script language="JavaScript">
 
+let times = 1;
 
+document.write('Bingo: <br>')
+
+    while (times <=25) {
+        let up = 25;
+        let down = 1;
+        let Bingo = Math.floor(Math.random() * (up * down)) + down;
+        times++;
+        document.write(Bingo + "<br>");
+    }
 
 
 
