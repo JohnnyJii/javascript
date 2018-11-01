@@ -6,25 +6,26 @@
 </head>
 <body>
 <script language="JavaScript">
-'use strict'
+  'use strict';
 
+  let nopat, summa1, todnak;
+  nopat = +prompt('Anna noppien määrä:');
+  summa1 = +prompt('Noppien summa: ');
 
-    let nopat, summa1, summa2, todnak;
-    nopat = prompt('Anna noppien määrä:');
-    summa1 = prompt('Noppien summa: ');
-    summa2 = 0;
-    todnak = 0;
+  todnak = 0;
 
-    for (i=1; i<=10000; i++){
-      for (j=1; j=nopat; j++){
-        summa2 = summa2 + Math.floor(Math.random() * 6) + 1;
-      }
-      if(summa2 == summa1) {
-        todnak++;
-      }
-      summa2 = 0;
+  for (let i = 1; i <= 10000; i++) {
+    let summa2 = 0;
+    for (let j = 0; j < nopat; j++) {
+      summa2 += Math.floor(Math.random() * 6) + 1;
+      console.log(j + ':' + summa2);
     }
-        document.write('Todennäköisyys haluamasi summalle on: ' + todnak/100 + '%');
+    // console.log(summa2);
+    if (summa2 == summa1) {
+      todnak++;
+    }
+  }
+  document.write('Todennäköisyys haluamasi summalle on: ' + todnak / 10000 * 100 + '%');
 
 </script>
 </body>
