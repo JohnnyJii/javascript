@@ -5,6 +5,7 @@
     <title>Lab 4-2</title>
 </head>
 <body>
+<div id="lista"></div>
 <script language="JavaScript">
     'use strict'
 
@@ -16,7 +17,7 @@ for (maara; maara>0; maara-- ) {
   lista.push(nimet);
 }
 
-function teeLista(array) {
+function makeList(array) {
   let list = document.createElement('ol');
 
       for (let i=0; i < array.length; i++) {
@@ -26,7 +27,7 @@ function teeLista(array) {
   }
   return list;
 }
-document.getElementById('orderedList').appendChild(makeList(lista));
+document.getElementById('lista').appendChild(makeList(lista));
 
 </script>
 </body>
