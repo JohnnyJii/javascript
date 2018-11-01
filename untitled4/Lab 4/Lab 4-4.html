@@ -6,7 +6,24 @@
 </head>
 <body>
 <script language="JavaScript">
+    'use strict'
 
+    let luvut = [];
+    let luku;
+
+    let alkuluku = prompt('Anna lluku:');
+
+    if (alkuluku > 0) {
+      luvut.push(alkuluku);
+      do {
+        luku = prompt('Anna luku');
+        luvut.push(luku);
+      } while (luku !=0); {
+            }
+    } else {
+      document.write('Annoit negatiivisen luvun');
+    }
+    document.write(luvut.sort((a, b) => b-a));
 
 </script>
 </body>
