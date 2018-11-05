@@ -13,11 +13,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="teht2.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht2.html">
+          <file leaf-file-name="teht3.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+                <state relative-caret-position="300">
+                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -27,21 +27,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="teht2.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht2.js">
+          <file leaf-file-name="teht3.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht3.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="teht2.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/Css/teht2.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="540">
+                  <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -62,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab5.html" />
-        <option value="$PROJECT_DIR$/lab1-6.html" />
         <option value="$PROJECT_DIR$/lab1-7.html" />
         <option value="$PROJECT_DIR$/Lab 1-8.html" />
         <option value="$PROJECT_DIR$/Lab1-9.html" />
@@ -113,6 +101,8 @@
         <option value="$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht2.html" />
         <option value="$PROJECT_DIR$/Lab 6/event-tehtavat-master/Css/teht2.css" />
         <option value="$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht2.js" />
+        <option value="$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht3.html" />
+        <option value="$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht3.js" />
       </list>
     </option>
   </component>
@@ -179,7 +169,7 @@
               <item name="untitled4" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Lab 6" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="event-tehtavat-master" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -244,12 +234,12 @@
       <workItem from="1541057499579" duration="3177000" />
       <workItem from="1541060826618" duration="5425000" />
       <workItem from="1541401809213" duration="8576000" />
-      <workItem from="1541412731921" duration="1525000" />
+      <workItem from="1541412731921" duration="2875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64691000" />
+    <option name="totallyTimeSpent" value="66041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1047" y="35" width="1436" height="1322" extended-state="0" />
@@ -296,20 +286,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 1/Lab1 1-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="7" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 4/Lab 4-7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -598,10 +574,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -614,10 +598,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht2.js">
+    <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/js/teht3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
