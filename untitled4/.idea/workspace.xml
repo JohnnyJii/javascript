@@ -16,8 +16,8 @@
           <file leaf-file-name="teht3.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <state relative-caret-position="345">
+                  <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -234,12 +234,12 @@
       <workItem from="1541057499579" duration="3177000" />
       <workItem from="1541060826618" duration="5425000" />
       <workItem from="1541401809213" duration="8576000" />
-      <workItem from="1541412731921" duration="2875000" />
+      <workItem from="1541412731921" duration="2941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66041000" />
+    <option name="totallyTimeSpent" value="66107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1047" y="35" width="1436" height="1322" extended-state="0" />
@@ -600,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab 6/event-tehtavat-master/teht3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
