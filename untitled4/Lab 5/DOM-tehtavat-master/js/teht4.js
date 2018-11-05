@@ -7,16 +7,11 @@ const kuvat = [
 ];
 
 const ul = document.querySelector('ul');
-let createli = '<li></li>';
 
 for (let i = 0; i < 4; i++) {
-  createli = createli + '<li></li>';
-}
-
-ul.innerHTML = createli;
-
-for (let j = 1; j < 6; j++) {
-  let li = document.querySelector('ul li:nth-child(' + j + ')');
-  let addImg = '<img src=' + kuvat[j - 1] + '>';
-  li.appendChild(addImg);
+  const createli = document.createElement('li');
+  const image = document.createElement('img');
+  image.src= kuvat[i];
+  createli.appendChild(image);
+  ul.appendChild(createli);
 }
