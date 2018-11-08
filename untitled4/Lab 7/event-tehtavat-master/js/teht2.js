@@ -1,12 +1,8 @@
-document.getElementById('kuva').onmouseover = function() {
-  mouseOver();
-};
-document.getElementById('kuva').onmouseout = function() {
-  mouseOut();
-};
+document.getElementById('kuva').addEventListener('mouseover',  mouseOver);
+document.getElementById('kuva').addEventListener('onmouseout', mouseOut);
 
 function mouseOver() {
-  document.querySelector('p').style = 'display: block;';
+  document.querySelector('p').style.display = 'block';
 }
 
 function mouseOut() {

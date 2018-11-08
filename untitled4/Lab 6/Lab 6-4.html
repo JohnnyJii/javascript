@@ -7,18 +7,17 @@
 <body>
 <script language="JavaScript">
 
-function suurinluku(eka, toka, kolmas) {
-  let suurin = luku;
-  return suurin;
-}
+  function suurinluku(l) {
+    console.log(l);
+    return Math.max(...l);
+  }
 
-let eka = prompt('Anna eka luku:');
-let toka = prompt('Anna toka luku:');
-let kolmas = prompt('Anna kolmas luku:');
-let neljäs = Math.max(eka, toka, kolmas);
+  const luvut = [];
+  luvut.push(+prompt('Anna eka luku:'));
+  luvut.push(+prompt('Anna teka luku:'));
+  luvut.push(+prompt('Anna keka luku:'));
 
-
-document.write('Suurin luku luvuistasi on: ' + neljäs);
+  document.write('Suurin luku luvuistasi on: ' + suurinluku(luvut));
 
 </script>
 </body>

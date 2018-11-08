@@ -8,16 +8,15 @@
 <script language="JavaScript">
 
     function itseisarvo(luku1) {
-      let tulos = luku1;
+      let tulos =  Math.abs(luku1);;
       return tulos;
     }
 
-    let luku1, luku2;
+    let luku1;
         luku1 = prompt('Anna luku jonka itseisarvon haluat selvittää: ');
-        luku2 = Math.abs(luku1);
 
 
-    document.write('Antamasi luvun ' + luku1 +  ' itseisarvo on: ' + luku2);
+    document.write('Antamasi luvun ' + luku1 +  ' itseisarvo on: ' + itseisarvo(luku1));
 
 
 </script>
