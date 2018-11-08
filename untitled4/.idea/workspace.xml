@@ -12,22 +12,22 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Lab 6-1.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-1.html">
+        <leaf>
+          <file leaf-file-name="Lab 6-3.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="8" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="19" selection-end-column="102" />
+                <state relative-caret-position="360">
+                  <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Lab 6-2.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-2.html">
+          <file leaf-file-name="Lab 6-4.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-4.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -37,11 +37,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Lab 6-3.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-3.html">
+          <file leaf-file-name="Lab 6-4.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-4.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -62,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LAb 3-4.html" />
         <option value="$PROJECT_DIR$/Lab 3-5.html" />
         <option value="$PROJECT_DIR$/Lab4-5.html" />
         <option value="$PROJECT_DIR$/Lab 4-7.html" />
@@ -113,6 +112,7 @@
         <option value="$PROJECT_DIR$/Lab 6/Lab 6-1.html" />
         <option value="$PROJECT_DIR$/Lab 6/Lab 6-2.html" />
         <option value="$PROJECT_DIR$/Lab 6/Lab 6-3.html" />
+        <option value="$PROJECT_DIR$/Lab 6/Lab 6-4.html" />
       </list>
     </option>
   </component>
@@ -234,12 +234,12 @@
       <workItem from="1541412731921" duration="3302000" />
       <workItem from="1541501351177" duration="197000" />
       <workItem from="1541575645603" duration="471000" />
-      <workItem from="1541660697506" duration="4611000" />
+      <workItem from="1541660697506" duration="5220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71747000" />
+    <option name="totallyTimeSpent" value="72356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1172" y="34" width="1311" height="1322" extended-state="0" />
@@ -463,14 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -619,6 +611,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/Lab 6-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
