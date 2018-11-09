@@ -17,7 +17,7 @@
             <entry file="file://$PROJECT_DIR$/Lab 8/Lab 8.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="300">
-                  <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+                  <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -37,11 +37,41 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Lab 8/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+                <state relative-caret-position="405">
+                  <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Lab 9 css_js/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Lab 9 css_js/css.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Lab 9 css_js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -63,9 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab 4-4.html" />
-        <option value="$PROJECT_DIR$/Lab 4-1.html" />
-        <option value="$PROJECT_DIR$/Lab 3-6.html" />
         <option value="$PROJECT_DIR$/Lab 3-7.html" />
         <option value="$PROJECT_DIR$/Lab 4-2.html" />
         <option value="$PROJECT_DIR$/Lab 4-3.html" />
@@ -114,6 +141,9 @@
         <option value="$PROJECT_DIR$/Lab 8/app.js" />
         <option value="$PROJECT_DIR$/Lab 8/Lab 8.html" />
         <option value="$PROJECT_DIR$/Lab 8/style.css" />
+        <option value="$PROJECT_DIR$/Lab 9 css/index.html" />
+        <option value="$PROJECT_DIR$/Lab 9 css/css.css" />
+        <option value="$PROJECT_DIR$/Lab 9 css/app.js" />
       </list>
     </option>
   </component>
@@ -188,6 +218,11 @@
               <item name="untitled4" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Lab 8" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="JS labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab 9 css_js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,12 +289,12 @@
       <workItem from="1541501351177" duration="197000" />
       <workItem from="1541575645603" duration="471000" />
       <workItem from="1541660697506" duration="14344000" />
-      <workItem from="1541746418972" duration="3033000" />
+      <workItem from="1541746418972" duration="3522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84513000" />
+    <option name="totallyTimeSpent" value="85002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1178" y="34" width="1305" height="1322" extended-state="0" />
@@ -306,9 +341,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab 5/Lab 5-4.html" />
-    <entry file="file://$PROJECT_DIR$/Lab 5/Lab 5-5.html" />
-    <entry file="file://$PROJECT_DIR$/Lab 5/Lab 5-6.html" />
     <entry file="file://$PROJECT_DIR$/Lab 4/Lab 4-1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -619,14 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 8/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 8/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,7 +662,39 @@
     <entry file="file://$PROJECT_DIR$/Lab 8/Lab 8.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 8/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 9 css_js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 9 css_js/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 9 css_js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
