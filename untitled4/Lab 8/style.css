@@ -20,9 +20,15 @@ div.main {
     border-radius: 45px 0px 45px 0px;
 
 }
-img {
-    border: 1px solid black;
-    padding-top: 0;
-    float: left;
 
+#app {
+    float: right;
+}
+
+#haku {
+    width: 250px;
+}
+
+#nappi {
+    position: absolute;
 }

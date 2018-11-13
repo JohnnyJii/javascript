@@ -1,41 +1,35 @@
+
 <!DOCTYPE html>
-<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns="http://www.w3.org/1999/html">
-
+<html lang="en">
 <head>
-
-    <title>Lab 8</title>
     <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="apple-touch-icon" href="icon.png">
-    <link rel="stylesheet" href="style.css">
+    <title>Database</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
 
 </head>
+<body >
 
-<body>
-    <div class="main">
-        <h1>Search from tv-show database</h1>
-    </div>
-    <div class="img">
-        <img src="img/giphy.gif">
-    </div>
 
-<header>
-        <p>Enter tv-show name below</p>
-            <div>
-                <input id="hakuteksti" type="text">
-                <button id="hakunappi">Hae</button>
-            </div>
-</header>
-    <main id="sarjat">
+<div class="main">
+    <h1>Search from database</h1>
+</div>
 
-    </main>
+<div class="search">
+        <textarea id="haku" type="text" placeholder="Type here" name="haku"></textarea>
+        <br>
+        <button class="nappi" id="nappi" name="nappi">Start search</button>
+</div>
+    <br>
+    <br>
+<div class="movies flex-grid">
+        <div  id="app" class="flex-container row movies2" >
+        </div>
+</div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
+
+</div>
 <script src="app.js"></script>
+
 </body>
 </html>
