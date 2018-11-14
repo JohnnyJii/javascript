@@ -1,3 +1,23 @@
+const nappi = document.getElementById('nappi');
+nappi.addEventListener('click', etsi);
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("button-up").style.display = "block";
+  } else {
+    document.getElementById("button-up").style.display = "none";
+  }
+}
+
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+
 function etsi () {
   const haku = document.getElementById('haku').value
   fetch(`https://api.tvmaze.com/search/shows?q=${haku}`)
@@ -20,5 +40,5 @@ function etsi () {
   })
 }
 
-const nappi = document.getElementById('nappi');
-nappi.addEventListener('click', etsi);
+
+
