@@ -1,9 +1,23 @@
+h1 {
+    position: absolute;
+    bottom: auto;
+    left: 10px;
+    font-size: 30px;
+}
 body {
     margin: 0;
     font-family: "Comic Sans MS";
     font-size: 1rem;
-    background-color: lightgray;
+    background-color: darkred;
+    -webkit-animation-name: background;
+    -webkit-animation-duration: 5000ms;
+    animation-name: background;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
     padding: 2px;
+}
+.movies {
+    padding-top: 200px;
 }
 
 header {
@@ -13,24 +27,54 @@ header {
 }
 
 div.main {
+    height: 200px;
     text-align: center;
     top: 0;
-    padding: 0;
+    padding-right: 15px;
     border: 5px solid black;
-    border-radius: 45px 0px 45px 0px;
+    border-radius: 360px 0px 360px 0px;
+    background-color: black;
 
+}
+div.search {
+    position: absolute;
+    bottom: auto;
+    right: 50px;
+    top: 250px;
+
+}
+
+
+.search {
+    position: fixed;
+    float: right;
+
+}
+
+#haku {
+    border: 1px darkgrey solid;
+    border-radius: 3px;
+    position: relative;
+}
+
+#god {
+    height: 200px;
+    width: 400px;
+    padding-right: 50px;
 }
 
 #app {
     float: right;
-}
 
-#haku {
-    width: 250px;
+    border-radius: 3px;
+
 }
 
 #nappi {
-    position: absolute;
+    padding-right: 10px;
+    border: 1px darkgrey solid;
+    border-radius: 5px;
+    position: relative;
 }
 
 #button-up {
@@ -57,4 +101,10 @@ div.main {
 #button-up:not(:hover) {
     background-color: grey;
     transition-duration: 1s;
+}
+
+@-webkit-keyframes background {
+    0% {background-color: darkred;}
+    50% {background-color: red;}
+    100% {background-color: darkred;}
 }
