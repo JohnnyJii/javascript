@@ -60,7 +60,19 @@ div.search {
 #god {
     height: 200px;
     width: 400px;
-    padding-right: 50px;
+    padding-right: 75px;
+}
+
+#rose1 {
+    width: 150px;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+#rose2 {
+    width: 150px;
+    height: auto;
+    padding-bottom: 50px;
 }
 
 #app {
